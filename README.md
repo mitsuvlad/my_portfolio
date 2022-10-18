@@ -11,14 +11,14 @@
 
 [**Repository pbix files**](https://github.com/mitsuvlad/my_portfolio/tree/main/PowerBI) <br/>
 ___
-<br/>
+
 
 **ETL examples:** <br/>
 
- [Api, web scraping](https://github.com/mitsuvlad/my_portfolio/tree/main/python/api,webscraping) <br/>
+ [Api, web scraping](https://github.com/mitsuvlad/my_portfolio/tree/main/python/api%2C%20web%20scraping) <br/>
 
- [Data marts](https://github.com/mitsuvlad/my_portfolio/tree/main/python/Datamarts) <br/>
+ [Data marts](https://github.com/mitsuvlad/my_portfolio/tree/main/python/data%20marts) <br/>
 
-[Email scraping](https://github.com/mitsuvlad/my_portfolio/tree/main/python/Emailscraping) <br/>
+[Email scraping](https://github.com/mitsuvlad/my_portfolio/tree/main/python/email%20scraping) <br/>
 
-[Transforms](https://github.com/mitsuvlad/my_portfolio/tree/main/python/Transforms) <br/>
+[Transforms](https://github.com/mitsuvlad/my_portfolio/tree/main/python/transforms) <br/>
