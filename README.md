@@ -8,3 +8,17 @@
 - [Call center](https://app.powerbi.com/view?r=eyJrIjoiMDAzODYwMGYtZDY0NC00YWM4LWFhNzAtMmJkYTkzMWExZDI5IiwidCI6ImFiNzQ2ODA0LWQ4N2UtNGZiOS1hYzIwLTJjMDdlNzQwYjQ1MCIsImMiOjl9) <br/>
 - [Support](https://app.powerbi.com/view?r=eyJrIjoiYzk3N2YyYWItMzNjNi00NTI5LTkyYzMtZjI3Y2VmYzBlMDQ0IiwidCI6ImFiNzQ2ODA0LWQ4N2UtNGZiOS1hYzIwLTJjMDdlNzQwYjQ1MCIsImMiOjl9) <br/>
 - [Blue collars vacancies](https://app.powerbi.com/view?r=eyJrIjoiYzMzMzVmZjktZDUxMC00OTM5LThjZDQtNzczNWJmNjc2OGQyIiwidCI6ImFiNzQ2ODA0LWQ4N2UtNGZiOS1hYzIwLTJjMDdlNzQwYjQ1MCIsImMiOjl9) <br/>
+
+[**Repository pbix files**](https://github.com/mitsuvlad/my_portfolio/tree/main/PowerBI) <br/>
+___
+<br/>
+
+**ETL examples:** <br/>
+
+ [Api, web scraping](https://github.com/mitsuvlad/my_portfolio/tree/main/python/api,webscraping) <br/>
+
+ [Data marts](https://github.com/mitsuvlad/my_portfolio/tree/main/python/Datamarts) <br/>
+
+[Email scraping](https://github.com/mitsuvlad/my_portfolio/tree/main/python/Emailscraping) <br/>
+
+[Transforms](https://github.com/mitsuvlad/my_portfolio/tree/main/python/Transforms) <br/>
