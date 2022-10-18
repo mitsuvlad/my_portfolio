@@ -15,10 +15,10 @@ ___
 
 **ETL examples:** <br/>
 
- [Api, web scraping](https://github.com/mitsuvlad/my_portfolio/tree/main/python/api%2C%20web%20scraping) <br/>
+ * [Api, web scraping](https://github.com/mitsuvlad/my_portfolio/tree/main/python/api%2C%20web%20scraping) <br/>
 
- [Data marts](https://github.com/mitsuvlad/my_portfolio/tree/main/python/data%20marts) <br/>
+ * [Data marts](https://github.com/mitsuvlad/my_portfolio/tree/main/python/data%20marts) <br/>
 
-[Email scraping](https://github.com/mitsuvlad/my_portfolio/tree/main/python/email%20scraping) <br/>
+* [Email scraping](https://github.com/mitsuvlad/my_portfolio/tree/main/python/email%20scraping) <br/>
 
-[Transforms](https://github.com/mitsuvlad/my_portfolio/tree/main/python/transforms) <br/>
+* [Transforms](https://github.com/mitsuvlad/my_portfolio/tree/main/python/transforms) <br/>
