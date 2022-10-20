@@ -1,6 +1,7 @@
 # Portfolio
 
 **Power BI web demo versions:** <br/>
+- [Users Activity](https://app.powerbi.com/view?r=eyJrIjoiOWM5ZTExZjUtODAzNy00YTNmLTg3MWItNDFiYjM0YjQ4OGEyIiwidCI6ImFiNzQ2ODA0LWQ4N2UtNGZiOS1hYzIwLTJjMDdlNzQwYjQ1MCIsImMiOjl9) <br/>
 - [CEO dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWY2YzQ4MDAtOTRmMS00YmNiLWI3NDMtZjc3NWFlMmEwYjc5IiwidCI6ImFiNzQ2ODA0LWQ4N2UtNGZiOS1hYzIwLTJjMDdlNzQwYjQ1MCIsImMiOjl9) <br/>
 - [Project department](https://app.powerbi.com/view?r=eyJrIjoiOWFhMDIwYmYtMWM5OC00N2I0LTkyNWYtNTUxNDYxYzBmNjRkIiwidCI6ImFiNzQ2ODA0LWQ4N2UtNGZiOS1hYzIwLTJjMDdlNzQwYjQ1MCIsImMiOjl9) <br/>
 - [Mass recruitment funnel](https://app.powerbi.com/view?r=eyJrIjoiNzFlMDIyYTgtN2E4Ni00NzQyLWIwMTItNzU0ZDUwZjA5ZjM2IiwidCI6ImFiNzQ2ODA0LWQ4N2UtNGZiOS1hYzIwLTJjMDdlNzQwYjQ1MCIsImMiOjl9) <br/>
